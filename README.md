@@ -14,7 +14,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 **An AI-powered platform designed to transform how you create, schedule, and manage social media content across multiple platforms.**
 
-![ViralWave Studio Website](viralwavestudio-screenshot.png)
+![ViralWave Studio Website](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1763352205594-Screenshot%202025-11-16%20220128.png?alt=media&token=6b2c5754-8547-4a79-b1fd-a1c144d46fb1)
 
 </div>
 
