@@ -4,6 +4,12 @@
 
 ![AI Agent Tools Header](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955042801-Generated%20Image%20December%2005%2C%202025%20-%2012_17PM.jpeg?alt=media&token=fefde1ec-eb1b-46de-a23c-0daceec3c875)
 
+<div align="center">
+
+⭐ **Make sure you star the repo if you find it useful!!** ⭐
+
+</div>
+
 Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, and resources for developers and creators. Explore the best generative AI tools, LLMs, and AI-powered applications across various categories.
 
 ---
