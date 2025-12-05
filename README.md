@@ -14,6 +14,8 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 **An AI-powered platform designed to transform how you create, schedule, and manage social media content across multiple platforms.**
 
+![ViralWave Studio Website](viralwavestudio-screenshot.png)
+
 </div>
 
 **ViralWave Studio** is a comprehensive AI-powered social media management platform that enables users to generate engaging, brand-consistent content and automatically publish it across Facebook, Instagram, LinkedIn, Threads, Pinterest, TikTok, YouTube, and WordPress. Whether you're a content creator, marketer, or business owner, ViralWave Studio streamlines your social media workflow with intelligent automation and AI assistance.
