@@ -10,6 +10,14 @@
 
 </div>
 
+<div align="center">
+
+**If this repo has helped you, consider buying me a coffee! ☕**
+
+<a href="https://buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+</div>
+
 Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, and resources for developers and creators. Explore the best generative AI tools, LLMs, and AI-powered applications across various categories.
 
 ---
